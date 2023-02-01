@@ -1,0 +1,19 @@
+//Many to many
+
+Post
+
+
+Tag
+
+
+
+Video
+
+
+taggables
+    tag_id
+    taggable_id
+    taggable_type
+
+
+url : https://www.youtube.com/watch?v=tdCw3mW1ccQ&list=PL1TrjkMQ8UbVyIT0cDX-54gN5tunWZvaI&index=9
